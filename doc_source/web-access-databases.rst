@@ -26,7 +26,7 @@ Access Your Database
 
    * - **BEFORE YOU BEGIN**
 
-     - The steps on this page assume you have already completed the steps on :ref:`Get Started <react-native-getting-started>`.
+     - The steps on this page assume you have already completed the steps on :ref:`Get Started <web-getting-started>`.
 
 
 The AWS Mobile CLI and Amplify library make it easy to perform create, read, update, and delete ("CRUD") actions against data stored in the cloud through simple API calls in your JavaScript app.
